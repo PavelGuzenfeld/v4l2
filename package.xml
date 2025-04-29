@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>v4l2</name>
+  <version>0.1.0</version>
+  <description>Cmake library</description>
+  <maintainer email="pavelguzenfeld@gmail.com">Pavel Guzenfeld</maintainer>
+  <license>MIT</license>
+  <build_depend>cmake-library</build_depend>
+  <build_depend>exception-rt</build_depend>
+  <build_depend>fmt</build_depend>
+</package>
