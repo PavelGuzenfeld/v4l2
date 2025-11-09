@@ -172,6 +172,3 @@ Setting environment variable `GST_PLUGIN_PATH` to the path of the plugin can hel
 
 this ain't no opencv toy wrapper.  
 this is bare-bones, zero-bullshit v4l2 for real-time pipelines.
-
-use it. abuse it.  
-and stop writing `VIDIOC_*` by hand, this ain't 2008.
