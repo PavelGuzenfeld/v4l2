@@ -71,12 +71,12 @@ gst-launch-1.0 -e \
 - gstreamer 1.16+
 - cmake ≥ 3.20
 - colcon
-- `fmt`, `exception-rt`, `cmake-library`
+- `fmt`, `exception-rt`
 
 ### colcon build (recommended)
 
 ```bash
-colcon build --packages-select v4l2 cmake-library exception-rt
+colcon build --packages-select v4l2 exception-rt
 ```
 
 ### manually (if you're a masochist)
